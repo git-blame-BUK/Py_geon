@@ -14,3 +14,12 @@ Author: BUK
 
 
 ## Hardware
+
+Drone Frame:
+- has to be caged for indoor use. Very sturdy and small (about 30 cm)
+- enough space for the Jetson nano
+- upgradeable in case of to much weight of the drone
+
+
+![Lumenier-QAV-PRO-Whoop](https://user-images.githubusercontent.com/132343254/235874102-3e5f300e-a3e4-411e-8670-1d65aebb5686.jpg)
+
