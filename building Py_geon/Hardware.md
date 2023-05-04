@@ -55,16 +55,16 @@ Nvidia Jetson Nano Developer Kit 4GB - B01
 
 ![jetson-nano-commercial-developer-kit-kv-2c50-d](https://user-images.githubusercontent.com/132343254/235887570-7a410b7c-e259-4acc-8224-0abd81ca78f7.jpg)
 
-- State of the art embbeded Linux
+- State of the art embbeded linux
 - lightweight given the capabilitys it provides
-- Extrem power efficency (5W on lowPowerMode)
+- insanely power efficency (5W on lowPowerMode)
 
 ### Py_geon's Eyes
 
 Lightware SF45/B Lidar:
-- a Lidar is a Laser based Rangefinder
-- Lidar's are Leightweight, small and more relible then e.g. Sonars
-- in this case a Omnidirectional one --> Pygeon see's a 2 dimensional map within 50 m
+- A lidar is a laser based rangefinder
+- Lidar's are leightweight, small and more relible then e.g. Sonars
+- in this case a omnidirectional one --> Py_geon see's a 2 dimensional map within 50 m
 
 ![SF45-20Hero_V001_600x600](https://user-images.githubusercontent.com/132343254/235890863-76cda089-e446-4db2-8dc6-bc1332735bba.jpg)
 
