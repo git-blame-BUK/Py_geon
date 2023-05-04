@@ -67,7 +67,7 @@ Lightware SF45/B Lidar:
 ![SF45-20Hero_V001_600x600](https://user-images.githubusercontent.com/132343254/235890863-76cda089-e446-4db2-8dc6-bc1332735bba.jpg)
 
 
-
+<sub>All wiring tutorials and Documentation for any Pixahwk/Ardupilot related problems can be find in the official [Ardupilot Docs](https://ardupilot.org/copter/index.html)</sub>
 
 
 
