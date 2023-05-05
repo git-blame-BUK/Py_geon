@@ -44,8 +44,9 @@ Holybro pixhawk 6c - Flightcontroller
 
 ![Pixhawk6C](https://user-images.githubusercontent.com/132343254/235888053-6c7279e5-fbce-4cd0-9dac-f84b8f615978.png)
 
-- Lightweight about 35g
+- Lightweight (about 35g)
 - Highly customizable
+- Integrated compass, gyroscope and accelorometer
 - Precise docs on either PX4 or [Ardupilot](https://ardupilot.org/copter/index.html) Software.
 
 
