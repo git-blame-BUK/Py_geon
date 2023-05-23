@@ -58,7 +58,7 @@ Nvidia Jetson Nano Developer Kit 4GB - B01
 
 - State of the art embbeded linux
 - lightweight given the capabilitys it provides
-- insanely power efficency (5W on lowPowerMode)
+- insane power efficency (5W on lowPowerMode)
 
 ### Py_geon's Eyes
 
@@ -69,3 +69,10 @@ Lightware SF45/B Lidar:
 
 ![SF45-20Hero_V001_600x600](https://user-images.githubusercontent.com/132343254/235890863-76cda089-e446-4db2-8dc6-bc1332735bba.jpg)
 
+
+ [Hex Hereflow](https://www.cubepilot.com/#/accessory/features) Sensor:
+- Optical Flow Sensor for velocity based orientation
+- Downwardfacing Rangefinder (precisionlanding)
+- small, leightweight
+
+![hex-proficnc-hereflow-optischer-flow-sensor](https://github.com/git-blame-BUK/Py_geon/assets/132343254/6cf53aed-e7ee-4672-9c57-bf2a013b2f8b)
