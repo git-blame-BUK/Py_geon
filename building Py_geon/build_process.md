@@ -47,5 +47,11 @@ CAN1 Port: Optical Flow
 - Set RNGFND1_TYPE = 24 (DroneCAN)
 - Set RNGFND1_MAX_CM = 300
 
+(BatteryMonitoring Pixhawk 6c):
+- BATT_MONITOR = 4
+- BATT_VOLT_PIN = 8
+- BATT_CURR_PIN = 4
+- BATT_VOLT_MULT = 18.182
+- BATT_AMP_PERVLT = 36.364
 
   
