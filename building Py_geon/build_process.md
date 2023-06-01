@@ -47,11 +47,18 @@ CAN1 Port: Optical Flow
 - Set RNGFND1_TYPE = 24 (DroneCAN)
 - Set RNGFND1_MAX_CM = 300
 
-(BatteryMonitoring Pixhawk 6c):
+(BatteryMonitoring Pixhawk 6c): Power1 Port
 - BATT_MONITOR = 4
 - BATT_VOLT_PIN = 8
 - BATT_CURR_PIN = 4
 - BATT_VOLT_MULT = 18.182
 - BATT_AMP_PERVLT = 36.364
+
+## Boardcomputer Setup:
+- refer to this [Video](https://www.youtube.com/watch?v=nIuoCYauW3s)
+
+Reference Videos:
+- [JetsonNano Setup](https://www.youtube.com/watch?v=nIuoCYauW3s)
+- [Pixhawk 6c Video Series](https://www.youtube.com/watch?v=WzM4J_qlEso&t=536s)
 
   
