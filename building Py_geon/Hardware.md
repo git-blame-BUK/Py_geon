@@ -76,3 +76,11 @@ Lightware SF45/B Lidar:
 - small, leightweight
 
 ![hex-proficnc-hereflow-optischer-flow-sensor](https://github.com/git-blame-BUK/Py_geon/assets/132343254/6cf53aed-e7ee-4672-9c57-bf2a013b2f8b)
+
+[Holybro M9N GPS](https://holybro.com/products/m9n-gps):
+- Lightweight, precise GPS Module
+- Second external compass, foldable pedestal mount
+- Pixhawk 6c compatible our of the box
+
+![12027-3](https://github.com/git-blame-BUK/Py_geon/assets/132343254/e9f5beac-4bb1-46e5-a987-256b598cfc03)
+
