@@ -22,7 +22,7 @@ List of all Parameters set in Mission Planner (Ground Station)
 
 Flightcontroller mounted upside Down:
 
-AHRS_ORIENTATION = 180
+AHRS_ORIENTATION = roll180
 
 ### Peripherals:
 Telemetry1 Port: Proximity Sensor
