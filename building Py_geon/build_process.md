@@ -14,5 +14,38 @@ This will be a short walkthrough of my buildprocess.
 - [GPS](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/Hardware.md#py_geons-map) and Telemtry Modules need to be mounted maximising distance, same goes for the wifi antenna.
 
 
+## Mission Planner Setup
+
+First Step would be to Download and Install your Flightcontroller Software of choice.
+List of all Parameters set in Mission Planner (Ground Station)
+
+
+Flightcontroller mounted upside Down:
+
+AHRS_ORIENTATION = 180
+
+### Peripherals:
+Telemetry1 Port: Proximity Sensor
+- SERIAL1_PROTOCOL = “11” (“Lidar360”) if using Serial1
+- SERIAL1_BAUD = “115” if using Serial1
+- PRX1_TYPE = “8” (LightwareSF45B)
+- PRX1_ORIENT = “0” if mounted on the top of the vehicle, “1” if mounted upside-down on the bottom of the vehicle
+- PRX1_IGN_ANG1 and PRX1_IGN_WID1 parameters allow defining zones around the vehicle that should be ignored. For example to avoid a 20deg area to the right, set PRX1_IGN_ANG1 to 90 and PRX1_IGN_WID1 to 20
+
+Telemetry2 Port: Telemetry Modul
+- SERIAL2_PROTOCOL = 2 (MAVLink)
+- SERIAL2_BAUD = 57
+
+Telemetry3 Port: Boardcomputer
+- SERIAL5_PROTOCOL = 2 
+- SERIAL5_BAUD = 57
+
+CAN1 Port: Optical Flow
+- Set FLOW_TYPE = 6 (DroneCAN)
+- Set CAN_P1_DRIVER = 1 to enable DroneCAN
+- Set CAN_D1_PROTOCOL = 1 (DroneCAN)
+- Set RNGFND1_TYPE = 24 (DroneCAN)
+- Set RNGFND1_MAX_CM = 300
+
 
   
