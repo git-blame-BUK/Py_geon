@@ -6,7 +6,7 @@
 
 
 
-Drone project based on Arducopter/Pixhwak platform. Unlimited useability sustained by the Nvidia Jetson Nano and Python's Mavlink librarys.
+Drone project based on [Arducopter](https://ardupilot.org/copter/index.html)/Pixhwak platform. Unlimited useability sustained by the Nvidia Jetson Nano and Python's Mavlink librarys.
 
 Author: BUK
 
