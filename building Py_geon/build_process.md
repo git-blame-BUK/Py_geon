@@ -17,12 +17,12 @@ This will be a short walkthrough of my buildprocess.
 ## Mission Planner Setup
 
 First Step would be to Download and Install your Flightcontroller Software of choice.
-List of all Parameters set in Mission Planner (Ground Station)
+
+### List of all Parameters set in Mission Planner (Ground Station)
 
 
 Flightcontroller mounted upside Down:
-
-AHRS_ORIENTATION = roll180
+- AHRS_ORIENTATION = roll180
 
 ### Peripherals:
 Telemetry1 Port (Serial1): Proximity Sensor
