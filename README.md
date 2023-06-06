@@ -20,6 +20,17 @@ Author: BUK
 6. Performing autonomous missions based on proximity sensing and computer vision.
 
 
+## Contents
+1. [Hardware List](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/Hardware.md#hardware)
+2. [How to put Py_geon together](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/build_process.md#building-py_geon)
+- [Basic Drone Electronics](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/build_process.md#frame--motors--escs) 
+- [Drone Parameters/ MissionPlanner](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/build_process.md#mission-planner-setup)  
+- [NvidiaJetsonNano Setup/ Boardcomputer](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/build_process.md#boardcomputer-setup)
+
+3. [Pictures of the Final Version](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/Pictures.md#final-drone-platform)
+4. [Python Code](https://github.com/git-blame-BUK/Py_geon/blob/main/Py_geon's%20Thoughts/Code.py/placeholder.py)
+
+
 
 
 
