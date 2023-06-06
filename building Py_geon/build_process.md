@@ -25,18 +25,18 @@ Flightcontroller mounted upside Down:
 AHRS_ORIENTATION = roll180
 
 ### Peripherals:
-Telemetry1 Port: Proximity Sensor
+Telemetry1 Port (Serial1): Proximity Sensor
 - SERIAL1_PROTOCOL = “11” (“Lidar360”) if using Serial1
 - SERIAL1_BAUD = “115” if using Serial1
 - PRX1_TYPE = “8” (LightwareSF45B)
 - PRX1_ORIENT = “0” if mounted on the top of the vehicle, “1” if mounted upside-down on the bottom of the vehicle
 - PRX1_IGN_ANG1 and PRX1_IGN_WID1 parameters allow defining zones around the vehicle that should be ignored. For example to avoid a 20deg area to the right, set PRX1_IGN_ANG1 to 90 and PRX1_IGN_WID1 to 20
 
-Telemetry2 Port: Telemetry Modul
+Telemetry2 Port (Serial2): Telemetry Modul
 - SERIAL2_PROTOCOL = 2 (MAVLink)
 - SERIAL2_BAUD = 57
 
-Telemetry3 Port: Boardcomputer
+Telemetry3 Port (Serial5): Boardcomputer
 - SERIAL5_PROTOCOL = 2 
 - SERIAL5_BAUD = 57
 
@@ -46,6 +46,21 @@ CAN1 Port: Optical Flow
 - Set CAN_D1_PROTOCOL = 1 (DroneCAN)
 - Set RNGFND1_TYPE = 24 (DroneCAN)
 - Set RNGFND1_MAX_CM = 300
+
+GPS is configured out of the box
+
+[Extended Kalman Filter Setup](https://ardupilot.org/copter/docs/common-apm-navigation-extended-kalman-filter-overview.html): EK3 
+
+--> At this Point Py_geon understands the sensor output, but doesnt know what to do with these mesurements. Consequently we need to feed the EKF those parameters.
+- Set EK3_SRC1_POSXY: 3 (GPS)
+- Set EK3_SRC1_VELXY: 3 (set 5 for Optical FLow Primary) 
+- Set EK3_SRC1_POSZ: 1 (Barometer)
+- Set EK3_SRC1_VELZ: 3
+- Set EK3_SRC1_YAW: 1 (Compass)
+- Set EK3_SRC2_VELXY: 5 (Optical Flow/ Set 3 for Secondary GPS)
+- Set EK£_SRC2_POSZ: 2 (Rangefinder)
+
+
 
 (BatteryMonitoring Pixhawk 6c): Power1 Port
 - BATT_MONITOR = 4
