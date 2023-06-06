@@ -28,7 +28,7 @@ Author: BUK
 - [NvidiaJetsonNano Setup/ Boardcomputer](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/build_process.md#boardcomputer-setup)
 
 3. [Pictures of the Final Version](https://github.com/git-blame-BUK/Py_geon/blob/main/building%20Py_geon/Pictures.md#final-drone-platform)
-4. [Python Code](https://github.com/git-blame-BUK/Py_geon/blob/main/Py_geon's%20Thoughts/Code.py/placeholder.py)
+4. [Python Code](https://github.com/git-blame-BUK/Py_geon/blob/main/Py_geon's%20Thoughts/Code.py)
 
 
 
