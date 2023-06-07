@@ -87,5 +87,8 @@ Reference Videos:
 ## Final Hardware with all peripherals attached
 
 
+![image3](https://github.com/git-blame-BUK/Py_geon/assets/132343254/f876fa51-4253-40eb-9a0c-7564410ef47d)
+![image4](https://github.com/git-blame-BUK/Py_geon/assets/132343254/c1ab2f1c-2fc7-46a3-b285-84b3408638c4)
+![image0](https://github.com/git-blame-BUK/Py_geon/assets/132343254/40b80a95-53d3-445e-8312-5f51eaa5fc73)
 
   
