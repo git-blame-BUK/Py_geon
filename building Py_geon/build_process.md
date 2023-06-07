@@ -76,4 +76,16 @@ Reference Videos:
 - [JetsonNano Setup](https://www.youtube.com/watch?v=nIuoCYauW3s)
 - [Pixhawk 6c Video Series](https://www.youtube.com/watch?v=WzM4J_qlEso&t=536s)
 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Final Hardware with all peripherals attached
+
+
+
   
