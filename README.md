@@ -1,9 +1,5 @@
 # Py_geon
 
-![Drohnenprojekt Icon png ](https://github.com/git-blame-BUK/Py_geon/assets/132343254/ce2f0dbe-5c4d-4792-b93a-b08d92140918)
-
-
-
 
 
 Drone project based on [Arducopter](https://ardupilot.org/copter/index.html)/Pixhwak platform. Unlimited useability sustained by the Nvidia Jetson Nano and Python's Mavlink librarys.
