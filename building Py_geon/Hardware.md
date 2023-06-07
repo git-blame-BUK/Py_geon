@@ -75,7 +75,7 @@ Lightware SF45/B Lidar:
 - Downwardfacing Rangefinder (precisionlanding)
 - small, leightweight
 
-![hex-proficnc-hereflow-optischer-flow-sensor](https://github.com/git-blame-BUK/Py_geon/assets/132343254/6cf53aed-e7ee-4672-9c57-bf2a013b2f8b)
+![hex-proficnc-hereflow-optischer-flow-sensor](https://www.cubepilot.com/assets/accessory/p2-1.png)
 
 
 ### Py_geon's Map
@@ -85,5 +85,5 @@ Lightware SF45/B Lidar:
 - Second external compass, foldable pedestal mount
 - Pixhawk 6c compatible our of the box
 
-![12027-3](https://github.com/git-blame-BUK/Py_geon/assets/132343254/e9f5beac-4bb1-46e5-a987-256b598cfc03)
+![12027-3](https://www.premium-modellbau.de/media/image/e2/8c/e6/12029-3_600x600.jpg)
 
