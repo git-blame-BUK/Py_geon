@@ -14,3 +14,4 @@ the_connection.wait_heartbeat()
 # receive mavlink Messages(e.g. Attitude)
 while 1:
   msg = the_connection.recv_match(type="ATTITUDE", blocking=True)
+  print(msg)
